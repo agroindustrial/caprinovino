@@ -192,6 +192,13 @@ body{
     border-radius: 10px 0 0 10px;
 }
 
+.card__img3{
+    width: 30%;
+    height: 272px;
+    object-fit: cover;
+    border-radius: 10px 0 0 10px;
+}
+
 .cards__text{
     text-align: left;
     width: 90%;
