@@ -246,18 +246,6 @@ body{
     text-align: center;
 }
 
-.card__button3{
-    display: block;
-    background: linear-gradient(180deg, #2aaf08 0%, #2aaf08 100%);
-    border-radius: 6px;
-    text-decoration: none;
-    width: 40%;
-    color: var(--black1);
-    font-weight: 700;
-    text-align: center;
-    padding: 12px;
-}
-
 .card__date{
     color: var(--gold2);
     font-size: 18px;
