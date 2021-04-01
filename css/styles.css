@@ -10,6 +10,7 @@
     --black2: #30353B;
     --shadow: 0 8px 8px;
     --color_shadow: #00000033;
+    --blanco:#fff;
 }
 
 *{
@@ -238,11 +239,11 @@ body{
 
 .card__button2{
     display: block;
-    background: linear-gradient(180deg, #2aaf08 0%, #2aaf08 100%);
+    background: var(--blanco);
     border-radius: 6px;
     text-decoration: none;
     width: 100%;
-    color: var(--black1);
+    color: var(--verde);
     font-weight: 700;
     text-align: center;
     padding: 12px;
