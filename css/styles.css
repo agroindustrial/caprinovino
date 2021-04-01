@@ -233,7 +233,7 @@ body{
     color: var(--black1);
     font-weight: 700;
     text-align: center;
-    padding: 12px 5px;
+    padding: 12px 12px 12px 12px;
 }
 
 .card__date{
